@@ -17,7 +17,7 @@ class Board extends React.Component {
         onClick={() => this.props.onClick(i)}
       />
     );
-  }//test commit
+  }//test commit 2
 
   render() {
     return (
